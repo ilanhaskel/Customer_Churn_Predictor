@@ -96,30 +96,17 @@ See the full analysis in the [Jupyter Notebook](./index.ipynb).
 ## Repository Structure
 
 ```
-├── eda_notebooks
-│   ├── eda_clean_ilan.ipynb
-│   ├── eda_clean_ilan_assumptions.ipynb
-│   ├── eda_clean_jon.ipynb
-│   ├── eda_clean_vis_jon.ipynb
-│   └── eda_clear_jon_v4.ipynb
-│   └── eda_Nate_2.ipynb
-│   └── ilan.ipynb
-│   └── jon.ipynb
-├── images
-│   ├── header.jpeg
-│   ├── avg_price_garage.jpg
-│   ├── avg_price_patio.png
-│   ├── eval01.png
-│   ├── eval02.png
-│   └── eval03.png
-│   ├── eval04.png
-│   └── eval05.png
-│   ├── eval06.png
-│   └── eval07.png
 ├── data
-│   ├── kc_house_data.csv
-│   ├── column_names.md
+│   ├── bigml_59c28831336c6604c800002a.csv
+├── images
+│   ├── bill.png
+│   ├── churn_distribution.png
+│   ├── header.jpg
+│   ├── importance.png
+│   ├── service.png
+│   └── voicemail.png
+├── .gitignore
+├── README.md
 ├── index.ipynb
-├── presentation.pdf
-└── README.md
+└── presentation.pdf
 ```
